@@ -17,7 +17,7 @@ function About() {
         <ScrollAnimation animateIn="fadeInLeft">
           <center>
           <img
-            src="https://github.com/vansh190302/Extra-Files/blob/main/React%20js/Portfolio/myself2.png?raw=true"
+            src="https://github.com/vansh190302/Extra-Files/blob/main/React%20js/Portfolio/About%20me.png?raw=true"
             alt="Vansh" width="auto" height="200px"
           /></center>
         </ScrollAnimation>
