@@ -105,4 +105,8 @@ export const stackList = [
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg",
     name: "VS Code",
   },
+  {
+    img: "https://raw.githubusercontent.com/simple-icons/simple-icons/ff9c9044b5ce33a4afb6cac3583f40c4c9519707/icons/github.svg",
+    name: "Github",
+  },
 ];
